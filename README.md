@@ -18,22 +18,34 @@ The main goal is to evaluate employee sentiment and engagement by performing the
 TOP EMPLOYEES BASED ON SENTIMENT SCORE
 
 Top positive employees 2011-03:
+
 patti.thompson@enron.com
+
 rhonda.denton@enron.com
+
 john.arnold@enron.com
 
+
 Top negative employees 2011-03:
+
 johnny.palmer@enron.com
+
 eric.bass@enron.com
+
 don.baughman@enron.com
 
 
 
 EMPLOYEES FLAGGED AS FLIGHT RISK
+
 bobette.riner@ipgdirect.com
+
 eric.bass@enron.com
+
 lydia.delgado@enron.com
+
 patti.thompson@enron.com
+
 
 KEY INSIGHTS AND RECOMMENDATIONS
 •	Only two features (body_len and word_count) have statistically significant effects.
