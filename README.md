@@ -4,6 +4,7 @@ PROJECT OVERVIEW
 The goal of the project is to evaluate employee sentiment and engagement using data analysis techniques such as sentiment analysis, exploratory data analysis, sentiment labelling, employee ranking and predictive modeling. I need to analyze employee messages to understand how people feel and how engaged they are at work. I'll be working with raw data that doesn't have labels, so I will be figuring out the patterns myself using text analysis and statistics. The project has several different parts where I will analyze the data and build models to get insights.
 
 PROJECT OBJECTIVE
+
 The main goal is to evaluate employee sentiment and engagement by performing the following:
 ·	Sentiment Labeling: Automatically label each message as Positive, Negative, or Neutral.
 ·	Exploratory Data Analysis (EDA): Analyze and visualize the data to understand its structure and underlying trends.
