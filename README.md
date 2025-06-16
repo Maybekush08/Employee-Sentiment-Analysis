@@ -45,6 +45,8 @@ lydia.delgado@enron.com
 
 KEY INSIGHTS AND RECOMMENDATIONS
 •	The logistic regression model predicts positive sentiments well (F1-score: 0.80, recall: 0.90). It struggles with negative sentiments—those are barely detected (F1-score: 0.00). The model may be biased due to class imbalance, with positives dominating.
+
 •	Among these, only log_word_count showed a statistically significant effect (p < 0.001), with a positive coefficient of 0.86. This means that as the word count of an email increases, the likelihood of the sentiment being more positive also increases.
+
 The model can be improved further by adding more features. As we can see the model has a weak fit on our data, this can be improved by adding more features to the data to make the model more reliable. We can also develop advanced feature engineering techniques such as squaring and interaction terms to further develop the model fit on our data.
 
